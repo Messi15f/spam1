@@ -54,15 +54,15 @@ client2.on('message', message => {
 
 
 client.on('ready', async() => {
-var server = "512693975363223573"; 
-var channel = "515855382434807848";
+var server = "520141788758016019"; 
+var channel = "520141896404828170";
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('Messi is one Messi is one Messi is one Messi is one Messi is one Messi is one Messi is one Messi is one Messi is one Messi is one Messi is one Messi is one Messi is one Messi is one Messi is one')
     },305);
 })
 client.on('ready', async() => {
-var server = "512693975363223573"; 
-var channel = "515855382434807848";
+var server = "520141788758016019"; 
+var channel = "520141896404828170";
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('Messi is one Messi is one Messi is one Messi is one Messi is one Messi is one Messi is one Messi is one Messi is one Messi is one Messi is one Messi is one Messi is one Messi is one Messi is one')
     },305);
